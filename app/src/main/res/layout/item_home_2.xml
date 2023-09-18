@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="4dp"
+    android:background="@drawable/shape_item_home_2"
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card_view"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:backgroundTint="@color/bacround_card_view"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:cardCornerRadius="16dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            >
+
+
+            <ImageView
+                android:id="@+id/img_food"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@drawable/img_bakicn"
+                />
+
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/tv_name_food"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toTopOf="@id/card_view"
+            app:layout_constraintStart_toEndOf="@id/card_view"
+            android:text="@string/pancakes_with_custard"
+            android:textSize="16sp"
+            android:textColor="@color/text_color_splash_activity"
+            android:layout_marginStart="10dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_easy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/tv_name_food"
+            app:layout_constraintStart_toStartOf="@id/tv_name_food"
+            android:text="@string/easy"
+            android:textColor="@color/green"
+            android:backgroundTint="@color/green2"
+            android:textAllCaps="false"
+            android:textSize="16sp"
+            app:cornerRadius="18sp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_4_steps"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toTopOf="@id/btn_easy"
+            app:layout_constraintStart_toEndOf="@id/btn_easy"
+            android:text="@string/_4_steps"
+            android:textColor="@color/green"
+            android:backgroundTint="@color/green2"
+            android:textAllCaps="false"
+            android:textSize="16sp"
+            app:cornerRadius="18sp"
+            android:layout_marginStart="8dp"
+            />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/btn_easy"
+            app:layout_constraintStart_toStartOf="@id/btn_easy"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="12dp"
+            android:layout_marginEnd="40dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/img_star"/>
+
+            <TextView
+                android:id="@+id/tv_star_ball"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/_4_8"
+                android:textSize="14sp"
+                android:textColor="@color/text_color_splash_activity"
+                android:layout_marginStart="4dp"
+                android:layout_marginTop="2dp"/>
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginStart="14dp"
+                android:src="@drawable/ic_fire"/>
+
+            <TextView
+                android:id="@+id/tv_kcal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/_160_kcal"
+                android:textSize="14sp"
+                android:textColor="@color/text_color_splash_activity"
+                android:layout_marginStart="4dp"
+                android:layout_marginTop="2dp"/>
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginStart="14dp"
+                android:src="@drawable/ic_baseline_access_time_24"/>
+
+            <TextView
+                android:id="@+id/tv_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/_16_00"
+                android:textSize="14sp"
+                android:textColor="@color/text_color_splash_activity"
+                android:layout_marginStart="4dp"
+                android:layout_marginTop="2dp"/>
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

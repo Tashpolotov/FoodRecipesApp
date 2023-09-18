@@ -1,0 +1,140 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+        <string name="app_name">FoodRecipesApp</string>
+        <string name="get_started">Commencer</string>
+        <string name="make_it_easier_for_you_in_the_cooking_process">Facilitez-vous le processus de cuisson</string>
+        <!-- À FAIRE : Supprimez ou modifiez ce texte de substitution -->
+        <string name="hello_blank_fragment">Bonjour fragment vide</string>
+        <string name="search">Rechercher</string>
+        <string name="baking">Cuisson</string>
+        <string name="pancakes_with_custard">Crêpes à la crème</string>
+        <string name="easy">Facile</string>
+        <string name="_4_steps">4 étapes</string>
+        <string name="_4_8">4,8</string>
+        <string name="_160_kcal">160 kcal</string>
+        <string name="_16_00">16:00</string>
+        <string name="fruity_pancakes">Crêpes aux fruits</string>
+        <string name="ingredients">Ingrédients</string>
+        <string name="milk">Lait</string>
+        <string name="start_cooking">Commencer la cuisson</string>
+        <string name="how_to_cook">Comment cuisiner</string>
+        <string name="step_1_dsadsa">Étape 1 : dsadsa</string>
+        <string name="finish">Terminer</string>
+        <string name="dessert">Dessert</string>
+        <string name="salads">Salades</string>
+        <string name="snack">En-cas</string>
+        <string name="chocolatecake">Gâteau au chocolat</string>
+        <string name="hard">Difficile</string>
+        <string name="cheesecake">Cheesecake</string>
+        <string name="medium">Moyen</string>
+        <string name="classic_chocolate_cake">Gâteau au chocolat classique</string>
+        <string name="homemade_bread">Pain maison</string>
+        <string name="cucumber_and_tomato_salad">Salade de concombres et de tomates</string>
+        <string name="caesar_salad">Salade César</string>
+        <string name="chips">Chips</string>
+        <string name="step7_chips">Étape 7 : Servez et dégustez</string>
+        <string name="info_chips">Une fois que les chips de pommes de terre ont refroidi, servez-les en tant que délicieux en-cas maison ou en accompagnement. N\'hésitez pas à les déguster nature ou avec votre trempette ou sauce préférée.</string>
+
+
+        <string name="chips_step6">Étape 6 : Refroidir et assaisonner</string>
+
+
+        <string name="chips_step4">Étape 4 : Disposer sur les plaques de cuisson</string>
+        <string name="chips_step3">Étape 3 : Assaisonner les chips</string>
+
+        <string name="chips_step1">Étape 1 : Préchauffer le four</string>
+        <string name="chips_info1">Préchauffez votre four à 200°C (400°F).</string>
+
+        <string name="chips_info3">Placez les rondelles de pommes de terre dans un grand bol. Arrosez-les d\'huile d\'olive et mélangez pour bien les enrober. Vous pouvez également saupoudrer les assaisonnements de votre choix sur les chips et mélanger pour les enrober.</string>
+        <string name="ceaser_salad_step1" tools:ignore="ExtraTranslation">Étape 1 : Préparer la vinaigrette César</string>
+        <string name="ceaser_salad_step2" tools:ignore="ExtraTranslation">Étape 2 : Préparer les croûtons</string>
+        <string name="ceaser_salad_step3" tools:ignore="ExtraTranslation">Étape 3 : Assembler la salade</string>
+        <string name="ceaser_salad_step4" tools:ignore="ExtraTranslation">Étape 4 : Ajouter la vinaigrette</string>
+        <string name="ceaser_salad_step5" tools:ignore="ExtraTranslation">Étape 5 : Ajouts facultatifs</string>
+        <string name="ceaser_salad_step6" tools:ignore="ExtraTranslation">Étape 6 : Servir et déguster</string>
+
+
+        <string name="ceaser_salad_info3" tools:ignore="ExtraTranslation">Dans un grand saladier, placez les feuilles de laitue romaine déchirées. Ajoutez les croûtons et 1/2 tasse de Parmesan râpé.</string>
+        <string name="ceaser_salad_info4" tools:ignore="ExtraTranslation">Arrosez la salade de la vinaigrette César. Mélangez tout jusqu\'à ce que les feuilles de laitue soient uniformément enrobées de vinaigrette.</string>
+        <string name="ceaser_salad_info5" tools:ignore="ExtraTranslation">Si vous souhaitez ajouter de la protéine, envisagez de griller séparément des blancs de poulet ou des crevettes et de les ajouter à la salade. Pour une saveur César traditionnelle, vous pouvez également ajouter des filets d\'anchois finement hachés ou écrasés dans la vinaigrette.</string>
+        <string name="ceaser_salad_info6" tools:ignore="ExtraTranslation">Servez votre salade César immédiatement, en garnissant de Parmesan râpé supplémentaire si vous le souhaitez. Dégustez votre salade César classique en accompagnement ou ajoutez de la protéine pour en faire un plat principal satisfaisant !</string>
+        <string name="cucumber_step1">Étape 1 : Préparer les légumes</string>
+        <string name="cucumber_step2">Étape 2 : Préparer la vinaigrette</string>
+        <string name="cucumber_step3">Étape 3 : Assembler la salade</string>
+        <string name="cucumber_step4">Étape 4 : Ajouter du fromage feta en option</string>
+        <string name="cucumber_step5">Étape 5 : Assaisonner et servir</string>
+        <string name="cucumber_info1">Coupez les concombres en tranches et placez-les dans un grand saladier. Coupez ou découpez les tomates en quartiers et ajoutez-les au saladier. Émincez finement l\'oignon rouge et ajoutez-le également au saladier. Déchirez les feuilles de basilic frais et hachez le persil. Ajoutez-les au saladier avec les légumes.</string>
+
+        <string name="cucumber_info3">Versez la vinaigrette sur les légumes dans le saladier. Mélangez doucement jusqu\'à ce que les légumes soient uniformément enrobés de vinaigrette.</string>
+        <string name="cucumber_info4">Si vous le souhaitez, saupoudrez de fromage feta émietté sur le dessus de la salade.</string>
+        <string name="cucumber_info5">Goûtez la salade et ajustez le sel et le poivre noir selon vos préférences. Servez votre salade de concombres et de tomates immédiatement, ou réfrigérez-la pour un plat d\'accompagnement rafraîchissant. Bon appétit !</string>
+        <string name="homemade_step1">Étape 1 : Activer la levure (si nécessaire)</string>
+        <string name="homemade_step2">Étape 2 : Mélanger la pâte</string>
+        <string name="homemade_step3">Étape 3 : Pétrir la pâte</string>
+        <string name="homemade_step4">Étape 4 : Première levée</string>
+        <string name="homemade_step5">Étape 5 : Façonner la miche</string>
+        <string name="homemade_step6">Étape 6 : Deuxième levée</string>
+        <string name="homemade_step7">Étape 7 : Préchauffer le four</string>
+        <string name="homemade_step8">Étape 8 : Cuire le pain</string>
+        <string name="homemade_step9">Étape 9 : Refroidir et servir</string>
+
+        <string name="homemade_sinfo3" tools:ignore="MissingTranslation">Transférez la pâte sur une surface farinée. Pétrissez la pâte pendant environ 8 à 10 minutes jusqu\'à ce qu\'elle devienne lisse et élastique. Vous pouvez également utiliser un batteur sur socle avec un crochet pétrisseur pour cette étape.</string>
+
+        <string name="homemade_sinfo5" tools:ignore="MissingTranslation">Une fois que la pâte a levé, dégonflez-la pour libérer l\'air. Façonnez la pâte en une miche en pliant les bords vers le centre et en la roulant serrée. Placez la pâte façonnée dans un moule à pain graissé ou tapissé de papier parchemin.</string>
+
+        <string name="homemade_sinfo7" tools:ignore="MissingTranslation">Préchauffez votre four à 190°C (375°F).</string>
+
+        <string name="homemade_sinfo9" tools:ignore="MissingTranslation">Retirez le pain du moule et laissez-le refroidir sur une grille pendant au moins 30 minutes avant de le trancher. Servez votre pain maison et régalez-vous !</string>
+        <string name="classk_chocolate_step1">Étape 1 : Préchauffez le four</string>
+        <string name="classk_chocolate_step2">Étape 2 : Préparez la pâte à gâteau</string>
+        <string name="classk_chocolate_step3">Étape 3 : Faites cuire le gâteau</string>
+        <string name="classk_chocolate_step4">Étape 4 : Préparez le glaçage au chocolat</string>
+        <string name="classk_chocolate_step5">Étape 5 : Glaçage du gâteau</string>
+        <string name="classk_chocolate_step6">Étape 6 : Servez et dégustez</string>
+        <string name="classk_chocolate_info1" tools:ignore="MissingTranslation">Préchauffez votre four à 175°C (350°F). Graissez et farinez deux moules à gâteau ronds de 23 cm (9 pouces).</string>
+
+        <string name="classk_chocolate_info3" tools:ignore="MissingTranslation">Versez la pâte à gâteau dans les moules préparés. Faites cuire au four préchauffé pendant 30 à 35 minutes ou jusqu\'à ce qu\'un cure-dent inséré au centre en ressorte propre. Retirez les gâteaux du four et laissez-les refroidir dans les moules pendant environ 10 minutes. Ensuite, transférez les gâteaux sur une grille pour les laisser refroidir complètement.</string>
+
+        <string name="classk_chocolate_info5" tools:ignore="MissingTranslation">Une fois que les gâteaux ont complètement refroidi, étalez une couche de glaçage au chocolat sur l\'un des gâteaux. Placez le deuxième gâteau par-dessus et glacez le dessus et les côtés de tout le gâteau.</string>
+        <string name="classk_chocolate_info6" tools:ignore="MissingTranslation">Coupez et servez votre gâteau au chocolat classique. Il est délicieux tel quel ou avec une boule de glace ! Régalez-vous avec votre gâteau au chocolat classique fait maison !</string>
+        <string name="cheesecake_step1">Étape 1 : Préchauffez le four</string>
+        <string name="cheesecake_step2">Étape 2 : Préparez la croûte</string>
+        <string name="cheesecake_step3">Étape 3 : Préparez la garniture</string>
+        <string name="cheesecake_step4">Étape 4 : Faites cuire le cheesecake</string>
+        <string name="cheesecake_step5">Étape 5 : Refroidissez et réfrigérez</string>
+        <string name="cheesecake_step6">Étape 6 : Servez</string>
+        <string name="cheesecake_info1" tools:ignore="MissingTranslation">Préchauffez votre four à 160°C (325°F).</string>
+        <string name="cheesecake_info2" tools:ignore="MissingTranslation">Dans un bol, mélangez les miettes de biscuit Graham, 1/4 de tasse de sucre granulé et le beurre fondu. Pressez fermement ce mélange au fond d\'un moule à charnière de 23 cm (9 pouces) pour créer la croûte.</string>
+
+
+        <string name="cheesecake_info5" tools:ignore="MissingTranslation">Retirez le cheesecake du four et laissez-le refroidir dans le moule sur une grille pendant environ 10 minutes. Ensuite, passez un couteau autour du bord du moule pour détacher le cheesecake des côtés. Laissez le cheesecake refroidir complètement, puis réfrigérez-le pendant plusieurs heures ou toute la nuit pour qu\'il prenne.</string>
+        <string name="cheesecake_info6" tools:ignore="MissingTranslation">Servez votre délicieux cheesecake nature ou avec vos garnitures préférées, telles que de la compote de fruits, de la sauce au chocolat ou de la crème fouettée. Régalez-vous avec votre cheesecake maison !</string>
+        <string name="chocolatecake_step1">Étape 1 : Préparez les ingrédients</string>
+        <string name="chocolatecake_step2">Étape 2 : Préparez le moule de cuisson</string>
+        <string name="chocolatecake_step3">Étape 3 : Préparez la pâte à gâteau</string>
+        <string name="chocolatecake_step4">Étape 4 : Faites cuire le gâteau</string>
+        <string name="chocolatecake_step5">Étape 5 : Préparez le glaçage</string>
+        <string name="chocolatecake_step6">Étape 6 : Glaçage du gâteau</string>
+        <string name="chocolatecake_step7">Étape 7 : Servez et dégustez</string>
+        <string name="chocolatecake_info1">Rassemblez tous les ingrédients nécessaires tels que listés dans la recette.</string>
+        <string name="chocolatecake_info2">Beurrez le moule de cuisson et saupoudrez-le de farine ou utilisez du papier parchemin pour éviter que le gâteau ne colle.</string>
+
+        <string name="chocolatecake_info4">Versez la pâte dans le moule de cuisson préparé. Placez le moule dans un four préchauffé à 180°C (350°F). Faites cuire le gâteau pendant environ 30 à 35 minutes ou jusqu\'à ce qu\'un cure-dent en bois ou un couteau inséré au centre en ressorte propre. Retirez le gâteau du four et laissez-le refroidir dans le moule pendant quelques minutes avant de le transférer sur une grille de refroidissement pour un refroidissement complet.</string>
+
+        <string name="chocolatecake_info6">Versez le glaçage au chocolat sur le gâteau refroidi, en l\'étalant uniformément.</string>
+        <string name="chocolatecake_info7">Laissez le gâteau refroidir complètement et le glaçage prendre avant de le trancher et de le servir. Régalez-vous avec votre gâteau au chocolat fait maison !</string>
+        <string name="sugar">Sucre</string>
+        <string name="flour">Farine</string>
+        <string name="cocoa">Cacao</string>
+        <string name="baking_powder">Levure chimique</string>
+        <string name="salt">Sel</string>
+        <string name="eggs">Œufs</string>
+        <string name="olive">Olive</string>
+        <string name="butter">Beurre</string>
+        <string name="smetana">Smetana</string>
+        <string name="cream">Crème</string>
+        <string name="soda">Bicarbonate de soude</string>
+        <string name="cucumber">Concombre</string>
+        <string name="tomatoes">Tomates</string>
+        <string name="garlic">Ail</string>
+        <string name="potatoes">Pommes de terre</string>
+    </resources>
